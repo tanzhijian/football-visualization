@@ -3,7 +3,7 @@
   "packageManager": "pnpm@8.6.0",
   "scripts": {
     "build": "vite build",
-    "dev": "vite --port 3333 --open",
+    "dev": "vite --port 3335 --open",
     "lint": "eslint .",
     "typecheck": "vue-tsc --noEmit",
     "preview": "vite preview",
@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.1.2",
+    "chart.js": "^4.3.0",
     "vue": "^3.3.4",
+    "vue-chartjs": "^5.2.0",
     "vue-router": "^4.2.2"
   },
   "devDependencies": {
