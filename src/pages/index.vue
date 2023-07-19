@@ -43,4 +43,8 @@ function go() {
       </button>
     </div>
   </div>
+  <div text-left>
+    <h2>explore</h2>
+    <li><a href="explore/hello">hello</a></li>
+  </div>
 </template>
