@@ -46,5 +46,6 @@ function go() {
   <div text-left>
     <h2>explore</h2>
     <li><a href="explore/hello">hello</a></li>
+    <li><a href="explore/radar">radar</a></li>
   </div>
 </template>
